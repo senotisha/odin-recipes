@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #e97575
+    background-color: #e975758c
 }
 
 h1 {
@@ -14,3 +14,20 @@ h1 {
     font-size: 25px
 }
 
+.navigation {
+    display: inline-block;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navigation li {
+    padding-left: 50px;
+    padding: 10px;
+    padding-top: 50px
+}
+
+.navigation a {
+    text-decoration: none;
+    margin-left: 70px
+
+}
