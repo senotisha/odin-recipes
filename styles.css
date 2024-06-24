@@ -4,5 +4,13 @@
 }
 
 body {
-    background-color: #f0bfbf
+    background-color: #e97575
 }
+
+h1 {
+    margin: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px
+}
+
