@@ -36,4 +36,9 @@ h1 {
     text-decoration: none;
     margin-left: 70px;
     font-size: 20px;
+    color: white;
+}
+
+a:hover {
+    background-color: #83d6fc9a;
 }
