@@ -5,7 +5,8 @@
 }
 
 body {
-    background-color: #e975758c
+    background-image: url(images/foodbackground.jpg);
+    background-size: cover;
 }
 
 h1 {
